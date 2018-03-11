@@ -1,0 +1,95 @@
+body {
+  background: rgb(252,252,252);
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1 {
+  margin: 0;
+}
+ul {
+  list-style: none;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+li {
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 20px;
+  margin-top: 7px;
+  margin-left: 10%;
+}
+
+.heading {
+  margin: 0 auto;
+  padding: 0.5em 0;
+  background: rgb(112,146,190);
+  /*background: rgb(86,151,194);*/
+
+  text-align: center;
+}
+
+#heading-logo {
+  width: 140px;
+  height: 140px;
+  text-align: center;
+}
+
+.heading-text {
+  text-align: center;
+  margin-top: 0.1em;
+  color: rgb(245,245,245);
+  font-family:"Forte", "Helvetica Neue", sans-serif;
+  font-size: 2.7em;
+  font-weight: bold;
+  letter-spacing: -0.02em;
+}
+
+.input-containter {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%
+}
+
+.done-true {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.input-txt {
+  height: 23px;
+  width: 50%;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.35;
+  border-radius: 6px;
+  margin-left: 12%;
+}
+
+button {
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.38;
+  border-radius: 10px;
+  color: #fff;
+  background: rgb(112,146,190);
+  /*background: rgb(77,146,191);*/
+  /*background: rgb(86,151,194);*/
+   */
+
+  border-color: #6689b9;
+}
+
+.btnAdd {
+  margin-left: 6px;
+  margin-top: 20px;
+}
+
+.input-del {
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%
+}
+.btnDelComp {
+  margin-top: 20px;
+}
+
