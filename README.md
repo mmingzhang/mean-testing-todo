@@ -7,7 +7,7 @@ A shopping list application built with Node JS, MongoDB, Angular JS and Mocha. M
 * MongoDB - Download and Install [MongoDB](http://www.mongodb.org/downloads) - Make sure it's running on the default port (27017).
 
 ## Installation
-* Clone the repository: git clone git@github.com:mmingzhang/mean-testing-todo
+* Clone the repository: `git clone git@github.com:mmingzhang/mean-testing-todo`
 * Install dependencies: `npm install`
 
 ## Usage 
