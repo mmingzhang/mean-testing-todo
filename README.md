@@ -10,13 +10,12 @@ A shopping list application built with Node JS, MongoDB, Angular JS and Mocha. M
 * Clone the repository: `git clone git@github.com:mmingzhang/mean-testing-todo`
 * Install dependencies: `npm install`
 
-## Usage 
-* Start server: `npm start`
+## Running The Application 
 
-  then navigate to http://localhost:8880 to view the app.
+  `npm start`
 
-or
-* Run tests: `npm run test`
+## Testing the Application  
 
-  then view test results.
+  `npm test`
+
 
