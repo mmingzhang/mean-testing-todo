@@ -18,4 +18,6 @@ A shopping list application built with Node JS, MongoDB, Angular JS and Mocha. M
 
   `npm test`
 
+   Navigate to http://localhost:8880
+
 
